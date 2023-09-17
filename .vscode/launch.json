@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ham",
+            "request": "launch",
+            "mainClass": "scr.ham",
+            "projectName": "HelloWorld_e0b7d2a3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ChanLe",
+            "request": "launch",
+            "mainClass": "scr.ChanLe",
+            "projectName": "HelloWorld_e0b7d2a3"
+        },
+        {
+            "type": "java",
+            "name": "Rank",
+            "request": "launch",
+            "mainClass": "scr.Rank",
+            "projectName": "HelloWorld_e0b7d2a3"
+        }
+    ]
+}
